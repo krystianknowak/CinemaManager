@@ -5,7 +5,17 @@
     <projectFile profileName="https">backend/backend.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adc45db3-a6f4-4822-acae-08e0728ba0d6" name="Changes" comment="" />
+    <list default="true" id="adc45db3-a6f4-4822-acae-08e0728ba0d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/Models/CinemaHall.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Models/Movie.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Models/Schedule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Models/Screening.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CinemaManager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CinemaManager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net9.0/backend.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net9.0/backend.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/Debug/net9.0/backend.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/Debug/net9.0/backend.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/backend/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ufDcg0M8cmcr0lujC5E4CljR5m" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,7 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -71,6 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1742630818769</updated>
       <workItem from="1742630820838" duration="20000" />
+      <workItem from="1742635456563" duration="6000" />
+      <workItem from="1742635778865" duration="215000" />
     </task>
     <servers />
   </component>
